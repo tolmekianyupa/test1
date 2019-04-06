@@ -1,3 +1,4 @@
 test
+branch is branch
 hello git!
 hello second
